@@ -19,7 +19,7 @@ $('#myBtn').on('click', function () {
 
 
 
-//SAVE -> Button!!!
+//SAVE -> Button!!
 //JSON = כתיבת אובייקטים בשפה ג'אווה סקריפט
 //Json = Java script object notation
 var cars = [{ name: "Fiat", year: 2020 }];
